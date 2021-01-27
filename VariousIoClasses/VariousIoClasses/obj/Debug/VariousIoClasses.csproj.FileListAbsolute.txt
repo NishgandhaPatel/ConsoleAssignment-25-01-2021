@@ -1,0 +1,7 @@
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\VariousIoClasses\VariousIoClasses\bin\Debug\VariousIoClasses.exe.config
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\VariousIoClasses\VariousIoClasses\bin\Debug\VariousIoClasses.exe
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\VariousIoClasses\VariousIoClasses\bin\Debug\VariousIoClasses.pdb
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\VariousIoClasses\VariousIoClasses\obj\Debug\VariousIoClasses.csprojAssemblyReference.cache
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\VariousIoClasses\VariousIoClasses\obj\Debug\VariousIoClasses.csproj.CoreCompileInputs.cache
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\VariousIoClasses\VariousIoClasses\obj\Debug\VariousIoClasses.exe
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\VariousIoClasses\VariousIoClasses\obj\Debug\VariousIoClasses.pdb

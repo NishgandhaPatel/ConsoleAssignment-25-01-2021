@@ -1,0 +1,7 @@
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\IoUserInputDemo\IoUserInputDemo\bin\Debug\IoUserInputDemo.exe.config
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\IoUserInputDemo\IoUserInputDemo\bin\Debug\IoUserInputDemo.exe
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\IoUserInputDemo\IoUserInputDemo\bin\Debug\IoUserInputDemo.pdb
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\IoUserInputDemo\IoUserInputDemo\obj\Debug\IoUserInputDemo.csprojAssemblyReference.cache
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\IoUserInputDemo\IoUserInputDemo\obj\Debug\IoUserInputDemo.csproj.CoreCompileInputs.cache
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\IoUserInputDemo\IoUserInputDemo\obj\Debug\IoUserInputDemo.exe
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-25-01-2021\IoUserInputDemo\IoUserInputDemo\obj\Debug\IoUserInputDemo.pdb
